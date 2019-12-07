@@ -16,21 +16,14 @@
 <img src="images/P3.jpg?raw=true"/>
 
 ---
-[Web Scrapping](http://example.com/)
+[Web Scrapping](/SampleP4)
 <img src="images/P4.jpg?raw=true"/>
 
 ---
-[Stream Processing](http://example.com/)
+[Stream Processing](/SampleP5)
 <img src="images/P5.jpg?raw=true"/>
 
 ---
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 

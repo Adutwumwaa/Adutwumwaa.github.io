@@ -11,4 +11,4 @@ THe resulting table was then loaded into postgres uisng a spark as a batch proce
 [Click here](https://github.com/Adutwumwaa/Blossom-Fall-2019-Data-Engineering/tree/master/Project3)
  
 
-for more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
