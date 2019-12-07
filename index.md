@@ -8,7 +8,7 @@
 <img src="images/P1.jpg?raw=true"/>
 
 ---
-[Batch Processing and Data Mining](/pdf/sample_presentation.pdf)
+[Batch Processing and Data Mining](/Sample P2)
 <img src="images/P2.jpg?raw=true"/>
 
 ---
