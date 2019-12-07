@@ -8,15 +8,22 @@
 <img src="images/P1.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Batch Processing and Data Mining](/pdf/sample_presentation.pdf)
+<img src="images/P2.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[BASIC END TO END EXTRACT TRANSFORM LOAD PIPELINE](http://example.com/)
+<img src="images/P3.jpg?raw=true"/>
 
 ---
+[Web Scrapping](http://example.com/)
+<img src="images/P4.jpg?raw=true"/>
 
+---
+[Stream Processing](http://example.com/)
+<img src="images/P5.jpg?raw=true"/>
+
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
