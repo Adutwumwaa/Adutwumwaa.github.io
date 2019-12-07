@@ -12,7 +12,7 @@
 <img src="images/P2.jpg?raw=true"/>
 
 ---
-[BASIC END TO END EXTRACT TRANSFORM LOAD PIPELINE](http://example.com/)
+[BASIC END TO END EXTRACT TRANSFORM LOAD PIPELINE](/SampleP3)
 <img src="images/P3.jpg?raw=true"/>
 
 ---

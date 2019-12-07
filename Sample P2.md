@@ -8,9 +8,4 @@
 A visualization package,Matplotlib was then used to compare a role(data science) between 2 cities(New York and Atlanta)
 
 
-[Click here](https://github.com/Adutwumwaa/Blossom-Fall-2019-Data-Engineering/tree/master/Project2)
- 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
